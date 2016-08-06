@@ -1,0 +1,39 @@
+_repo: Christmas-Eve-on-Lonesome-and-Other-Stories_10735
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Yohn, F. C. (Frederick Coffay)
+    alias: Yohn, Frederick Coffay
+    birthdate: 1875
+    deathdate: 1933
+    gutenberg_agent_id: '26457'
+    url: http://www.gutenberg.org/2009/agents/26457
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Coffay_Yohn
+creator:
+  author:
+    agent_name: Fox, John
+    alias: Fox, John William
+    birthdate: 1863
+    deathdate: 1919
+    gutenberg_agent_id: '179'
+    url: http://www.gutenberg.org/2009/agents/179
+    wikipedia: http://en.wikipedia.org/wiki/John_Fox%2C_Jr.
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kentucky -- Social life and customs -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Cumberland Mountains -- Fiction'
+- GITenberg
+tableOfContents: Christmas Eve On Lonesome -- The Army Of The Callahan -- The Pardon
+  Of Becky Day -- A Crisis For The Guard -- Christmas Night With Satan.
+title: Christmas Eve on Lonesome and Other Stories
+url: http://www.gutenberg.org/ebooks/10735
